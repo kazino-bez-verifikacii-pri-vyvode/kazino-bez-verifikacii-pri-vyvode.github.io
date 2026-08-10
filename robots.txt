@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-bez-verifikacii-pri-vyvode.github.io
+Sitemap: https://kazino-bez-verifikacii-pri-vyvode.github.io/sitemap.xml
